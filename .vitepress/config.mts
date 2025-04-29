@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "react docs",
-  base: "/docs/",
+  base: "/react-docs/",
   outDir: "./docs",
   description: "this is react docs for xiaoman",
   head: [
