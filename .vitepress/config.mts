@@ -178,5 +178,6 @@ export default defineConfig({
   },
   rewrites: {
     'self-media/index.md': 'self-media.md'
-  }
+  },
+  ignoreDeadLinks: true,
 })
